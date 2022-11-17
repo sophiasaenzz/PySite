@@ -6,4 +6,3 @@ MarkupSafe==2.1.1
 Werkzeug==2.2.2
 zipp==3.10.0
 gunicorn==20.10
-importlib=metadata=5.0.0
